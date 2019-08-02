@@ -1,0 +1,7 @@
+name: object_identification_example
+
+conda_env: conda.yaml
+
+entry_points:
+  main:
+    command: "python object_identification_example.py"
